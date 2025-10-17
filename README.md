@@ -1,5 +1,5 @@
 Respuestas Eva3:
-Recursos y URIs
+Recursos y URLS
 
 Recurso: /api/v1/tareas/
 Descripción: Listar todas las tareas y crear nuevas.
