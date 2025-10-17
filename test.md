@@ -31,7 +31,7 @@ curl -X GET http://127.0.0.1:8000/api/v1/tareas/ \
 ```bash
 curl -X POST http://127.0.0.1:8000/api/v1/tareas/ \
      -H "Content-Type: application/json" \
-     -d '{"titulo": "Aprender DRF", "hecho": false}'
+     -d '{"titulo": "Hacer Tarea 1", "hecho": false}'
 ```
 
 **Respuesta esperada:**
